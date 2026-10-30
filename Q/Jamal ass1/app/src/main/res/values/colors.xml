@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary">#3F51B5</color>
+    <color name="primary_dark">#303F9F</color>
+    <color name="accent">#FF4081</color>
+
+    <color name="button_toast">#3F51B5</color>
+    <color name="button_gray">#888888</color>
+    <color name="button_orange">#FF9800</color>
+    <color name="button_green">#00C853</color>
+    <color name="button_blue">#2962FF</color>
+
+    <color name="count_background">#FFEB3B</color>
+    <color name="count_text">#3F51B5</color>
+</resources>
